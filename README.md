@@ -1,1 +1,1 @@
-# This code is the main code of LPSDM.
+# This code is the main code of LPSDM. Whereafter, we will upload the complete debug code to the above-mentioned website or our team’s website (i.e., https://www.researchgate.net/profile/Yaru-Hu-2) to publish journal papers and source codes after our paper is accepted. Therefore, we look forward to your attention to our website.
